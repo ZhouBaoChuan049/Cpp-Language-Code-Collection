@@ -11,7 +11,7 @@ namespace mystring
 		_str[_size++] = c;
 		_str[_size] = '\0';
 	}
-	//жиди+=
+	//жиди += 
 	string& string::operator+= (char c)
 	{
 		push_back(c);
