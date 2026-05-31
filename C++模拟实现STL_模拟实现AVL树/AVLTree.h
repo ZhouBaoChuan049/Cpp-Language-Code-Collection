@@ -4,12 +4,6 @@
 #include<vector>
 #include<ctime>
 using namespace std;
-//需要完成的接口：
-//AVL树的结点类和AVL树类√
-//插入函数√
-//四种旋转函数√
-//中序遍历，高度，查找，结点数量√
-//判定是否是AVL树√
 template <class K,class V>
 struct AVLTreeNode
 {
