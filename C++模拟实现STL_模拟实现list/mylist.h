@@ -3,34 +3,7 @@
 #include<stdbool.h>
 #include<assert.h>
 using namespace std;
-//链表结点构造√
-//链表迭代器构造√
-//operator++√
-//operator*√
-//operator--√
-//operator！=√
-//begin/end√
-//链表构造√
-//pushback√
-//push_front√
-//insert√
-//popback√
-//popfront√
-//erase√
-//size（）√
-//empty（）√
-//以上全部测试一遍
-//2.4新任务：
-//operator->√
-//三个模板参数实现const和非const合并√
-//初始化链表构造√
-//const_iterator√
-//拷贝构造√
-//复制重载√
-//swap√
-//clear√
-//empty_init()升级构造函数√
-//按需实例化打印AA类（双成员变量）√
+
 namespace mylist
 {
 	template <class T>
